@@ -29,3 +29,4 @@ script:
   
 release:
   - exit 0  
+  - echo done
